@@ -1,0 +1,3 @@
+class ConnectionDoesNotExistException implements Exception{}
+class ConnectionIsActivelyUsedException implements Exception{}
+class NoInternetConnectionException implements Exception{}
